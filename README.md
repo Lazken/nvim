@@ -11,15 +11,15 @@
 
 ### Telescope:
 * 'Ctrl-p': Fuzzy find file
-* '<leader>fg': Grep across files
-* '<leader><leader>': Recent files
+* '\<leader>fg': Grep across files
+* '\<leader>\<leader>': Recent files
 
 ### Neo-Tree:
 'Ctrl-n': Open filesystem explorer
-'<leader>bf': Float window open buffers
+'\<leader>bf': Float window open buffers
 
 ### Lsp:
-* '<leader>ca': Code actions
+* '\<leader>ca': Code actions
 * 'K': Hover() Documentation on keyword under cursor
 * 'gd': Go to Definition
 
