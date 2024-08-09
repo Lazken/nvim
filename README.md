@@ -1,11 +1,10 @@
 # Installation
 ---
 
-#Install nerdfonts:
-##https://www.nerdfonts.com/
-#Install neovim (this setup is done on neovim 0.10.1)
-#clone repo in ~/.config/nvim
-#start neovim
+* Install nerdfonts: https://www.nerdfonts.com/
+* Install neovim (this setup is done on neovim 0.10.1)
+* clone repo in ~/.config/nvim
+* start neovim
 
 # Keybinds:
 ---
