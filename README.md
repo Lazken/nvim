@@ -8,6 +8,7 @@
 #start neovim
 
 # Keybinds:
+---
 
 ### Telescope:
 * 'Ctrl-p': Fuzzy find file
@@ -15,8 +16,8 @@
 * '\<leader>\<leader>': Recent files
 
 ### Neo-Tree:
-'Ctrl-n': Open filesystem explorer
-'\<leader>bf': Float window open buffers
+* 'Ctrl-n': Open filesystem explorer
+* '\<leader>bf': Float window open buffers
 
 ### Lsp:
 * '\<leader>ca': Code actions
@@ -24,9 +25,11 @@
 * 'gd': Go to Definition
 
 # Notes
+---
 only lua lsp server set up at this time. 
 
 # Todo
+---
 Set up Python linting and lsp. 
 Set up Obsidian keybinds
 
