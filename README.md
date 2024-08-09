@@ -10,18 +10,18 @@
 # Keybinds:
 
 ### Telescope:
-* Ctrl-p: Fuzzy find file
-* <leader>fg: Grep across files
-* <leader><leader>: Recent files
+* 'Ctrl-p': Fuzzy find file
+* '<leader>fg': Grep across files
+* '<leader><leader>': Recent files
 
 ### Neo-Tree:
-Ctrl-n: Open filesystem explorer
-<leader>bf: Float window open buffers
+'Ctrl-n': Open filesystem explorer
+'<leader>bf': Float window open buffers
 
 ### Lsp:
-* <leader>ca: Code actions
-* K: Hover() Documentation on keyword under cursor
-* gd: Go to Definition
+* '<leader>ca': Code actions
+* 'K': Hover() Documentation on keyword under cursor
+* 'gd': Go to Definition
 
 # Notes
 only lua lsp server set up at this time. 
