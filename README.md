@@ -8,24 +8,24 @@
 
 # Keybinds:
 ---
+See cheatsheet.md
 
-### Telescope:
-* 'Ctrl-p': Fuzzy find file
-* '\<leader>fg': Grep across files
-* '\<leader>\<leader>': Recent files
-
-### Neo-Tree:
-* 'Ctrl-n': Open filesystem explorer
-* '\<leader>bf': Float window open buffers
-
-### Lsp:
-* '\<leader>ca': Code actions
-* 'K': Hover() Documentation on keyword under cursor
-* 'gd': Go to Definition
-
-# Notes
+# Plugin List:
 ---
-only lua lsp server set up at this time. 
+* treesitter
+* alpha
+* catppuccin
+* lua-line
+* neo-tree
+* telescope
+
+# Not fully setup plugins:
+---
+* obsidian
+
+# LSP Support
+---
+* lua
 
 # Todo
 ---
