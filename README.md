@@ -18,6 +18,9 @@ See cheatsheet.md
 * lua-line
 * neo-tree
 * telescope
+* cmp-nvim-lsp
+* Luasnip
+* nvim-cmp
 
 # Not fully setup plugins:
 ---
