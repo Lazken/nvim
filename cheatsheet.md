@@ -136,3 +136,47 @@ Once inside the tree,
 * '<leader>ca': Code actions
 * 'K': Hover() Documentation on keyword under cursor
 
+## Window Management
+Buffer -> file text in memory
+Window -> viewport on buffer
+Tab -> Collection of windows
+
+CTRL-W, followed by:
+s
+split horizontal
+v
+split vertical
+q
+quit window
+o
+close all other windows
+r
+rotate windows down/right (R oposite direction)
+x
+switch window with next one
+K
+moves current window to top full width
+J
+moves current window to bottom full
+H
+far left full height
+L
+far right full heigt
+T
+move window to new tab, fails if only one window
+=
+equal all windows in size
+-
+make window smaller
++
+make window bigger
+gt
+go to next tab
+gT
+go to previous tab
+
+
+CTRL-hjkl
+move between windows
+
+
