@@ -136,6 +136,16 @@ Once inside the tree,
 * '<leader>ca': Code actions
 * 'K': Hover() Documentation on keyword under cursor
 
+#### Autocompletion & snippets
+Ctrl-n
+move down list
+Ctrl-p
+move up list
+Ctrl-e
+abort autocomplete
+Ctrl-y
+confirm (<CR> also fine)
+
 ## Window Management
 Buffer -> file text in memory
 Window -> viewport on buffer

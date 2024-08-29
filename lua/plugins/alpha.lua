@@ -42,8 +42,8 @@ return {
     }
     local todisplayart = {
     }
-   -- Addart(todisplayart, bullsiart)
-    Addart(todisplayart, neovimart)
+    Addart(todisplayart, bullsiart)
+   -- Addart(todisplayart, neovimart)
     dashboard.section.header.val = todisplayart
     alpha.setup(dashboard.opts)
   end
