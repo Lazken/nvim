@@ -21,6 +21,7 @@ See cheatsheet.md
 * cmp-nvim-lsp
 * Luasnip
 * nvim-cmp
+* Mason
 
 # Not fully setup plugins:
 ---
@@ -29,11 +30,23 @@ See cheatsheet.md
 # LSP Support
 ---
 * lua
+* bash
+* json
+* python
+* terraform
 
-# Todo
+# Formatters
 ---
-Set up Python linting and lsp. 
-Set up Obsidian keybinds
+* black
+* prettier
+* stylua
+* docformatter
+
+# Linters
+---
+* jsonlint
+* tflint
+* tfsec
 
 
 
