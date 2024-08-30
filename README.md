@@ -23,10 +23,6 @@ See cheatsheet.md
 * nvim-cmp
 * Mason
 
-# Not fully setup plugins:
----
-* obsidian
-
 # LSP Support
 ---
 * lua
