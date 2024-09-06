@@ -181,7 +181,7 @@ move window to new tab, fails if only one window
 equal all windows in size
 * '-'
 make window smaller
-* +
+* '+'
 make window bigger
 * gt
 go to next tab
