@@ -147,46 +147,47 @@ Ctrl-y
 confirm (<CR> also fine)
 
 ## Window Management
+
+#### Semantics
 Buffer -> file text in memory
 Window -> viewport on buffer
 Tab -> Collection of windows
 
-CTRL-W, followed by:
-s
+#### Keybinds
+###### ctrl-W, followed by:
+* s
 split horizontal
-v
+* v
 split vertical
-q
+* q
 quit window
-o
+* o
 close all other windows
-r
+* r
 rotate windows down/right (R oposite direction)
-x
+* x
 switch window with next one
-K
+* K
 moves current window to top full width
-J
+* J
 moves current window to bottom full
-H
+* H
 far left full height
-L
+* L
 far right full heigt
-T
+* T
 move window to new tab, fails if only one window
-=
+* '='
 equal all windows in size
--
+* '-'
 make window smaller
-+
+* +
 make window bigger
-gt
+* gt
 go to next tab
-gT
-go to previous tab
-
-
-CTRL-hjkl
+* gT
+ro to previous tab
+* CTRL-hjkl
 move between windows
 
 
